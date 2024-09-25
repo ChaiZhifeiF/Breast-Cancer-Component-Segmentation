@@ -1,0 +1,10 @@
+usage: train.py [-h] [--work-dir WORK_DIR] [--load-from LOAD_FROM]
+                [--resume-from RESUME_FROM] [--no-validate]
+                [--gpus GPUS | --gpu-ids GPU_IDS [GPU_IDS ...] | --gpu-id
+                GPU_ID] [--seed SEED] [--diff_seed] [--deterministic]
+                [--options OPTIONS [OPTIONS ...]]
+                [--cfg-options CFG_OPTIONS [CFG_OPTIONS ...]]
+                [--launcher {none,pytorch,slurm,mpi}]
+                [--local_rank LOCAL_RANK] [--auto-resume]
+                config
+train.py: error: unrecognized arguments: >log/Liange/230112/deeplabv3plus.log
